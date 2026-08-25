@@ -37,7 +37,7 @@ GenProbRandi.m        – Uniform random integer helper
 MyError.m             – Class: single-type error object (prob, count, type)
 MyErrors.m            – Class: combined error object (prob, errDel, errIns, errSub)
 combProbs.m           – Class: nucleotide combination with probability
-untitled.m            – Complexity measurement plot (k=32, 1/2/3 errors)
+ComplexPlot.m            – Complexity measurement plot (k=32, 1/2/3 errors)
 ```
 
 ---
